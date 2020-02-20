@@ -1,0 +1,35 @@
+Kevina,Carmel Macchiato,2,4,Carmel,3
+Allan,Mango Smoothie,1,2,Mango,2
+DK,Latte,0,3,None,0
+Vienna,Nitro Cold Brew,0,0,None,0
+Yipper1,Thai Tea,2,2,Thai Tea,2
+Allie,Strawberry Smoothie,3,2,Strawberry,2
+Tim,Coffee,0,0,None,0
+Kaitlyn,Matcha Latte,2,3,Matcha,3
+Andrew,Milk Tea,1,2,Black Tea,3
+Derick,Matcha Latte,1,4,Matcha,2
+Jimmy,Water,0,0,none,0
+Alice,Americano,2,0,none,0
+Charlie,Mango Smoothie,3,2,Mango,4
+Amie,Pumpkin Spice Latte,3,2,Pumpkin Spice,2
+Queenie,Cappuccino,2,2,none,0
+Joey,Mocha,2,3,Chocolate,2
+Alex,Chai,4,4,Chai,4
+Patrick,Vanilla Latte,2,2,Vanilla,3
+Darrien,Black Tea,2,0,Black Tea,2
+Liz,Green Tea,2,0,Green Tea,3
+Calvin,Espresso Shot,1,0,none,0
+Brianna,Espresso Shot,2,1,Chai,2
+Brian,Nitro Cold Brew,0,1,Vanilla,1
+Kyle,Coffee,1,1,None,0
+Justin,Water,0,1,Vanilla,1
+Yipper2,Carmel Macchiato,1,3,Carmel,2 
+Brandon,Mango Smoothie,2,2,Mango,3
+Tiana,Chai,2,1,Chai,2
+Perry,Milk Tea,2,3,Black Tea,2
+Nathan,Pumpkin Spice Latte,5,5,Pumpkin Spice,5
+Jack,Milk Tea,5,5,Black Tea,5
+Jamal,Coffee,0,0,None,0
+Whale,Water,3,0,Sea Salt,5
+Timathan,Nitro Cold Brew,5,5,Strawberry,4
+Johmmy,Carmel Macchiato,0,0,Jasmine Tea,2
